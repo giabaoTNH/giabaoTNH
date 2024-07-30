@@ -1,4 +1,4 @@
-TRUONG THPT CHUYEN THOAI NGOC HAU
+TRUONG THPT CHUYEN THOAI NGOC HAU \n
 Full name: Ha Nguyen Gia Bao
 Contacts:
 - Email: hanguyengiabao1234@gmail.com
