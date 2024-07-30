@@ -1,5 +1,4 @@
-TRUONG THPT CHUYEN THOAI NGOC HAU
-
+**_TRUONG THPT CHUYEN THOAI NGOC HAU_**  
 Full name: Ha Nguyen Gia Bao
 
 Contacts:
